@@ -1,4 +1,4 @@
-# <p align="center">🏪💊 ROSSMANN STORE SALES PREDICTION 💊🏪</p> 
+# <p align="center"> Aprendizagem não supervisionada com base em dados nacionais </p> 
 <p align="center"><img src="https://github.com/yvesmoura/eda-socio-economic-and-health-factors/blob/eda-yves/img/desafio_final.jpg?raw=true"></p>
 <br>
 
