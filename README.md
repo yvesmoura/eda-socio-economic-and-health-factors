@@ -1,5 +1,5 @@
 # <p align="center">🏪💊 ROSSMANN STORE SALES PREDICTION 💊🏪</p> 
-<p align="center"><img src="https://github.com/leassis91/rossmann_store/blob/master/img/rossmann-store.jpg?raw=true"></p>
+<p align="center"><img src="https://github.com/yvesmoura/eda-socio-economic-and-health-factors/blob/eda-yves/img/desafio_final.jpg?raw=true"></p>
 <br>
 
 
