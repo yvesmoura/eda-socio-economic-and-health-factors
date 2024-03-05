@@ -1,18 +1,47 @@
-python3 -m venv eda-yves
-
-source eda-yves/bin/activate
-
-
-pip install -r rquirements.txt
+# <p align="center">🏪💊 ROSSMANN STORE SALES PREDICTION 💊🏪</p> 
+<p align="center"><img src="https://github.com/leassis91/rossmann_store/blob/master/img/rossmann-store.jpg?raw=true"></p>
+<br>
 
 
 
+## Rodando localmente
 
-https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data
+Clone o projeto
+
+```bash
+  git clone https://github.com/yvesmoura/eda-socio-economic-and-health-factors.git
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd eda-socio-economic-and-health-factors
+```
+
+Criar ambiente de desenvolvimento
+
+```bash
+  * python3 -m venv eda
+
+  * source eda/bin/activate
+```
 
 
+Instale as dependências
 
- ### - Descrição de Dados
+```bash
+  pip install -r rquirements.txt
+```
+
+<br>
+
+ ### - Importing Dataset:
+
+* Kaggle: https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data
+
+<br>
+
+ ### - Data Dictionary
 
 O Dataset usado para este projeto possui 167 linhas e 10 colunas. Os dados contém:
 
