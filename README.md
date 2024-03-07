@@ -64,33 +64,33 @@ O Dataset usado para este projeto possui 167 linhas e 10 colunas. Os dados cont�
 
 - **1. Países com maiores gastos totais com saúde per capita (health) tendem a ter uma expectativa de vida mais alta (life_expec).** 
 
-<p align="center"><img src="https://github.com/yvesmoura/eda-socio-economic-and-health-factors/blob/eda-yves/img/hp-1.jpg?raw=true"></p>
+<p align="center"><img src="https://github.com/yvesmoura/eda-socio-economic-and-health-factors/blob/eda-yves/img/hp-1.png?raw=true"></p>
 
   **Verdade**, paises que tem maiores investimento na saude tendem a ter uma expectativa de vida mais alta.
 
 - **2. Países com maior número de filhos por mulher (total_fer) tendem a ter uma expectativa de morte de criança mais alta(child_mort).** 
 
-<p align="center"><img src="https://github.com/yvesmoura/eda-socio-economic-and-health-factors/blob/eda-yves/img/hp-2.jpg?raw=true"></p>
+<p align="center"><img src="https://github.com/yvesmoura/eda-socio-economic-and-health-factors/blob/eda-yves/img/hp-2.png?raw=true"></p>
 
- **Verdade**, Quanto maior a quantidade de filhos pela mulher tentem a ter uma expectativa de morte de criança maior.
+  **Verdade**, Quanto maior a quantidade de filhos pela mulher tentem a ter uma expectativa de morte de criança maior.
 
 - **3. Países com maior lucro líquido por pessoa(income) tendem a ter uma expectativa de pib per capita mais alta(gdpp).** 
 
-<p align="center"><img src="https://github.com/yvesmoura/eda-socio-economic-and-health-factors/blob/eda-yves/img/hp-3.jpg?raw=true"></p>
+<p align="center"><img src="https://github.com/yvesmoura/eda-socio-economic-and-health-factors/blob/eda-yves/img/hp-3.png?raw=true"></p>
 
-**Verdade**, Países com maior lucro líquido por pessoa tendem a ter uma expectativa de pib per capita mais alta.
+  **Verdade**, Países com maior lucro líquido por pessoa tendem a ter uma expectativa de pib per capita mais alta.
 
 - **4. Países com exportações de bens(exports) tendem a ter uma menor importações de bens(imports).** 
 
-<p align="center"><img src="https://github.com/yvesmoura/eda-socio-economic-and-health-factors/blob/eda-yves/img/hp-4.jpg?raw=true"></p>
+<p align="center"><img src="https://github.com/yvesmoura/eda-socio-economic-and-health-factors/blob/eda-yves/img/hp-4.png?raw=true"></p>
 
-**Falso**, Quanto maior a exportações tendem a ter maior importacoes de bens.
+  **Falso**, Quanto maior a exportações tendem a ter maior importacoes de bens.
 
 - **5. Países com maiores gastos totais com saúde per capita (health) tendem a ter uma expectativa menor de morte de criança menores de 5 anos(child_mort).** 
 
-<p align="center"><img src="https://github.com/yvesmoura/eda-socio-economic-and-health-factors/blob/eda-yves/img/hp-5.jpg?raw=true"></p>
+<p align="center"><img src="https://github.com/yvesmoura/eda-socio-economic-and-health-factors/blob/eda-yves/img/hp-5.png?raw=true"></p>
 
-**Falso**, países que investem consideravelmente em saúde muitas vezes estejam no mesmo patamar de desenvolvimento que países que investem menos.
+  **Falso**, países que investem consideravelmente em saúde muitas vezes estejam no mesmo patamar de desenvolvimento que países que investem menos.
 
 
 ## Análise Multivariada
@@ -141,7 +141,6 @@ Nenhum deles aparece como um país destaque em outro atributo
 - Aprimorar a análise de bivariância, explorando relações entre variáveis de forma mais detalhada.
 
 - Testar outros modelos de análise multivariada além do método de Pearson, por exemplo o método Spearman
-
 - Desenvolver um dashboard para gestão, utilizando ferramentas como Power BI ou Streamlit, para oferecer uma visualização mais dinâmica e interativa dos dados e insights obtidos.
 
 
